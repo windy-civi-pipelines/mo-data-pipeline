@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Bill Combined (w/SCS SBs 101 & 64)",
+    "date": "2025-03-03T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 64"
+}

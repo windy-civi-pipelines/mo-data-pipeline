@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Third Read and Passed with Amendments (S) - with SA 1 - AYES: 27 NOES: 5 PRESENT: 0",
+    "date": "2025-03-10T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 495"
+}

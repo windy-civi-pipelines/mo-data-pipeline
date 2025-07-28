@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "SCS Voted Do Pass w/(SCS SJRs 31, 20, 24, 42, 32 & 48) Economic and Workforce Development Committee (1282S.05C)",
+    "date": "2025-02-19T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR 31"
+}

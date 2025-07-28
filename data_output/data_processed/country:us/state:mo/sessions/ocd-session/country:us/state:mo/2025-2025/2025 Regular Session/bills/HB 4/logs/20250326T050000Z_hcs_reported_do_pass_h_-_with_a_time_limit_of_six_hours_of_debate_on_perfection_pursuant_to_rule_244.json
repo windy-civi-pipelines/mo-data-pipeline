@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "HCS Reported Do Pass (H) - with a time limit of six hours of debate on Perfection pursuant to Rule 24(4)(d) - AYES: 27 NOES: 3 PRESENT: 0",
+    "date": "2025-03-26T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 4"
+}

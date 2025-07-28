@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "HA 3 to HCS H offered & adopted (Schmidt)--(0441H11.13H)",
+    "date": "2025-05-13T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 61"
+}

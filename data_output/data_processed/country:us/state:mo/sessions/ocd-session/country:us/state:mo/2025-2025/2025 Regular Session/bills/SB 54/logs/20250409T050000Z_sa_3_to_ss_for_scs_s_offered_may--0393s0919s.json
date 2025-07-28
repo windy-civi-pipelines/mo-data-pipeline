@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "SA 3 to SS for SCS S offered (May)--(0393S09.19S)",
+    "date": "2025-04-09T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 54"
+}

@@ -1,0 +1,24 @@
+{
+  "identifier": "",
+  "motion_text": "Third Read and Passed (H) - AYES: 141 NOES: 9 PRESENT: 1",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-02T05:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "063a8902-6be5-11f0-b2b7-9a04959f051b",
+  "bill_action": null,
+  "bill_identifier": "HB 543",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB543&year=2025&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "063ae384-6be5-11f0-b2b7-9a04959f051b"
+}

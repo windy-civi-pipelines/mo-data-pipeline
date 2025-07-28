@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Truly Agreed To and Finally Passed - AYES: 113 NOES: 39 PRESENT: 7",
+    "date": "2025-03-12T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 495"
+}

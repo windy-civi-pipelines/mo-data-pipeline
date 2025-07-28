@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Motion to concur In HCS, as amended S withdrawn (Gregory-15)",
+    "date": "2025-05-05T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 71"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "SCS Voted Do Pass (w/SCS SBs 81 & 174) Transportation, Infrastructure and Public Safety Committee (0805S.02C)",
+    "date": "2025-02-10T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 81"
+}

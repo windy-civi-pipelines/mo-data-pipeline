@@ -1,0 +1,504 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB 10",
+  "title": "Modifies expiration dates of certain sections",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "Modifies expiration dates of certain sections"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "HCS SS#2 SCS SB 10"
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Prefiled",
+      "date": "2024-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "S First Read",
+      "date": "2025-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Second Read and Referred S Local Government, Elections and Pensions Committee",
+      "date": "2025-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Hearing Conducted S Local Government, Elections and Pensions Committee",
+      "date": "2025-01-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "SCS Voted Do Pass S Local Government, Elections and Pensions Committee (0303S.02C)",
+      "date": "2025-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Reported from S Local Government, Elections and Pensions Committee w/SCS",
+      "date": "2025-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "SS for SCS S offered (Hough)--(0303S.04F)",
+      "date": "2025-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "SA 1 to SS for SCS S offered & adopted (Brattin)--(0303S04.03S)",
+      "date": "2025-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "SA 2 to SS for SCS S offered & adopted (Cierpiot)--(0303S04.01S)",
+      "date": "2025-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "SA 3 to SS for SCS S offered & adopted (Coleman)--(0303S04.06S)",
+      "date": "2025-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "SA 4 to SS for SCS S offered & adopted (McCreery)--(0303S04.04S)",
+      "date": "2025-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "SA 5 to SS for SCS S offered & adopted (Beck)--(0303S04.02S)",
+      "date": "2025-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "SA 6 to SS for SCS S offered & adopted (Beck)--(0303S04.08S)",
+      "date": "2025-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2025-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "SS for SCS S withdrawn",
+      "date": "2025-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "SS#2 for SCS S offered (Hough)--(0303S.06F)",
+      "date": "2025-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "SA 1 to SS#2 for SCS S offered & defeated (Webber)--(0303S06.05S)",
+      "date": "2025-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "SA 2 to SS#2 for SCS S offered & defeated (Lewis)--(0303S06.04S)",
+      "date": "2025-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "SA 3 to SS#2 for SCS S offered & defeated (Gregory-21)--(0303S06.19S)",
+      "date": "2025-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "SS#2 for SCS S adopted",
+      "date": "2025-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Perfected",
+      "date": "2025-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2025-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Referred S Fiscal Oversight Committee",
+      "date": "2025-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Voted Do Pass S Fiscal Oversight Committee",
+      "date": "2025-02-20T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Reported from S Fiscal Oversight Committee",
+      "date": "2025-02-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "S Third Read and Passed",
+      "date": "2025-02-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "H First Read",
+      "date": "2025-02-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "H Second Read",
+      "date": "2025-02-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred H Government Efficiency",
+      "date": "2025-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Hearing Conducted H Government Efficiency",
+      "date": "2025-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "HCS Voted Do Pass H Government Efficiency",
+      "date": "2025-04-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "HCS Reported Do Pass H Government Efficiency",
+      "date": "2025-04-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred H Rules - Legislative",
+      "date": "2025-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "HCS Voted Do Pass H Rules - Legislative",
+      "date": "2025-05-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "HCS Reported Do Pass H Rules - Legislative",
+      "date": "2025-05-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred H Fiscal Review Committee",
+      "date": "2025-05-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2025-05-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "HCS Voted Do Pass H Fiscal Review",
+      "date": "2025-05-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "HCS Reported Do Pass H Fiscal Review",
+      "date": "2025-05-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "H Informal Calendar Senate Bills for Third Reading (HCS)",
+      "date": "2025-06-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hough",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Hough\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/25info/pdf-bill/intro/SB10.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/25info/pdf-bill/comm/SB10.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Perfected",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/25info/pdf-bill/perf/SB10.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/25info/pdf-bill/House/HCS-SB/SB0010.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "0303S04.03S - SA 1 SS\u00a0Adopted",
+      "links": [
+        {
+          "url": "http://www.senate.mo.gov/25info/BTS_Web/ShowAmendment.aspx?Id=43",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
+    },
+    {
+      "note": "0303S04.01S - SA 2 SS\u00a0Adopted",
+      "links": [
+        {
+          "url": "http://www.senate.mo.gov/25info/BTS_Web/ShowAmendment.aspx?Id=46",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
+    },
+    {
+      "note": "0303S04.06S - SA 3 SS\u00a0Adopted",
+      "links": [
+        {
+          "url": "http://www.senate.mo.gov/25info/BTS_Web/ShowAmendment.aspx?Id=47",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
+    },
+    {
+      "note": "0303S04.04S - SA 4 SS\u00a0Adopted",
+      "links": [
+        {
+          "url": "http://www.senate.mo.gov/25info/BTS_Web/ShowAmendment.aspx?Id=48",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
+    },
+    {
+      "note": "0303S04.02S - SA 5 SS\u00a0Adopted",
+      "links": [
+        {
+          "url": "http://www.senate.mo.gov/25info/BTS_Web/ShowAmendment.aspx?Id=49",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
+    },
+    {
+      "note": "0303S04.08S - SA 6 SS\u00a0Adopted",
+      "links": [
+        {
+          "url": "http://www.senate.mo.gov/25info/BTS_Web/ShowAmendment.aspx?Id=51",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
+    },
+    {
+      "note": "0303S.06F - SS 2 SCS \u00a0Adopted",
+      "links": [
+        {
+          "url": "http://www.senate.mo.gov/25info/BTS_Web/ShowAmendment.aspx?Id=79",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://www.senate.mo.gov/25info/BTS_Web/Bill.aspx?SessionType=R&BillID=132",
+      "note": ""
+    },
+    {
+      "url": "https://www.senate.mo.gov/25info/BTS_Web/Actions.aspx?SessionType=R&BillID=132",
+      "note": ""
+    },
+    {
+      "url": "https://www.senate.mo.gov/25info/BTS_Web/BillText.aspx?SessionType=R&BillID=132",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "scraped_at": "2025-07-28T18:04:32+00:00",
+  "_id": "4f22562a-6bdd-11f0-b2b7-9a04959f051b"
+}

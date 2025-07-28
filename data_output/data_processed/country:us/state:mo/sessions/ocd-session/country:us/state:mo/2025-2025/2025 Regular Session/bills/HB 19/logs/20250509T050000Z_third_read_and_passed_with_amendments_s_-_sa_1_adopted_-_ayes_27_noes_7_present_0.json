@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Third Read and Passed with Amendments (S) - SA 1 adopted - AYES: 27 NOES: 7 PRESENT: 0",
+    "date": "2025-05-09T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 19"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Perfection Defeated (H) - AYES: 20 NOES: 120 PRESENT: 0",
+    "date": "2025-04-09T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 242"
+}

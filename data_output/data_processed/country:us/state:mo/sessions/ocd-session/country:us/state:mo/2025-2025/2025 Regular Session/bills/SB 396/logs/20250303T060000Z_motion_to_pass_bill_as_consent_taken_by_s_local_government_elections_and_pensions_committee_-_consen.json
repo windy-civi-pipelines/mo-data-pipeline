@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Motion to pass bill as consent taken by S Local Government, Elections and Pensions Committee - Consent vote adopted",
+    "date": "2025-03-03T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 396"
+}

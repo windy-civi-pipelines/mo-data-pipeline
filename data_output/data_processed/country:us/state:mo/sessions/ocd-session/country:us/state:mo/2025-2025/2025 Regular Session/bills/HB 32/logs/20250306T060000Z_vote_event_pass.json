@@ -1,0 +1,24 @@
+{
+  "identifier": "",
+  "motion_text": "Reported Do Pass (H) - AYES: 8 NOES: 0 PRESENT: 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-06T06:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "d5573ea8-6be3-11f0-b2b7-9a04959f051b",
+  "bill_action": null,
+  "bill_identifier": "HB 32",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB32&year=2025&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "d557855c-6be3-11f0-b2b7-9a04959f051b"
+}

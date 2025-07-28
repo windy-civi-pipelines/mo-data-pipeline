@@ -1,0 +1,24 @@
+{
+  "identifier": "",
+  "motion_text": "HCS Reported Do Pass (H) - AYES: 10 NOES: 3 PRESENT: 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-01T05:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "4d39758e-6be5-11f0-b2b7-9a04959f051b",
+  "bill_action": null,
+  "bill_identifier": "HB 662",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB662&year=2025&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "4d39a2e8-6be5-11f0-b2b7-9a04959f051b"
+}

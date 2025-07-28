@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "CCS S Third Read and Passed - EC adopted",
+    "date": "2025-05-05T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 81"
+}

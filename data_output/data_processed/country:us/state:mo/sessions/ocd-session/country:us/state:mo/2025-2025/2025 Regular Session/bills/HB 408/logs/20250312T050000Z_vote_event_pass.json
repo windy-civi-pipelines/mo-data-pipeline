@@ -1,0 +1,24 @@
+{
+  "identifier": "",
+  "motion_text": "Reported Do Pass (H) - AYES: 6 NOES: 3 PRESENT: 1",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-12T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "b5adf5d2-6be4-11f0-b2b7-9a04959f051b",
+  "bill_action": null,
+  "bill_identifier": "HB 408",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB408&year=2025&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "b5ae4f28-6be4-11f0-b2b7-9a04959f051b"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "SCS Voted Do Pass (w/SCS SJRs 47, 30 & 10) Local Government, Elections and Pensions Committee (0462S.11C)",
+    "date": "2025-03-24T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR 47"
+}

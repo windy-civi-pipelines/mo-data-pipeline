@@ -1,0 +1,24 @@
+{
+  "identifier": "",
+  "motion_text": "Third Read and Passed (H) - AYES: 94 NOES: 48 PRESENT: 6",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-10T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "1786de72-6be5-11f0-b2b7-9a04959f051b",
+  "bill_action": null,
+  "bill_identifier": "HB 572",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB572&year=2025&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "17876630-6be5-11f0-b2b7-9a04959f051b"
+}

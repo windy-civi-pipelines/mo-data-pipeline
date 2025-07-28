@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Voted Do Pass S Emerging Issues and Professional Registration Committee",
+    "date": "2025-02-25T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 190"
+}

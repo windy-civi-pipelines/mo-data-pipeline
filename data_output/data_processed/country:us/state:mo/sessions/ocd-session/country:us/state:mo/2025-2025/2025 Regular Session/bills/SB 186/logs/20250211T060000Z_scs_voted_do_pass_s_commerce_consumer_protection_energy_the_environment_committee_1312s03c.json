@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "SCS Voted Do Pass S Commerce, Consumer Protection, Energy & the Environment Committee (1312S.03C)",
+    "date": "2025-02-11T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 186"
+}

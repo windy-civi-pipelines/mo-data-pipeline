@@ -1,0 +1,24 @@
+{
+  "identifier": "",
+  "motion_text": "Third Read and Passed (S) - AYES: 26 NOES: 8 PRESENT: 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-29T05:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "cd95e8c2-6be3-11f0-b2b7-9a04959f051b",
+  "bill_action": null,
+  "bill_identifier": "HB 7",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB7&year=2025&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "cd96816a-6be3-11f0-b2b7-9a04959f051b"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "SCS Voted Do Pass S Emerging Issues and Professional Registration Committee (0348S.03C)",
+    "date": "2025-02-04T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 3"
+}

@@ -1,0 +1,115 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB 757",
+  "title": "Repeals expired, terminated, sunset, and obsolete sections, and portions of sections, of law",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "Repeals expired, terminated, sunset, and obsolete sections, and portions of sections, of law"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "S First Read",
+      "date": "2025-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Second Read and Referred S Government Efficiency Committee",
+      "date": "2025-03-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Hearing Conducted S Government Efficiency Committee",
+      "date": "2025-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "SCS Voted Do Pass S Government Efficiency Committee (2955S.02C)",
+      "date": "2025-04-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Coleman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Coleman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/25info/pdf-bill/intro/SB757.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/25info/pdf-bill/SCSfromResearch/SB757.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://www.senate.mo.gov/25info/BTS_Web/Bill.aspx?SessionType=R&BillID=6348290",
+      "note": ""
+    },
+    {
+      "url": "https://www.senate.mo.gov/25info/BTS_Web/Actions.aspx?SessionType=R&BillID=6348290",
+      "note": ""
+    },
+    {
+      "url": "https://www.senate.mo.gov/25info/BTS_Web/BillText.aspx?SessionType=R&BillID=6348290",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "scraped_at": "2025-07-28T18:42:35+00:00",
+  "_id": "9fb224c6-6be2-11f0-b2b7-9a04959f051b"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Referred H Elementary and Secondary Education",
+    "date": "2025-03-19T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 68"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "SCS Voted Do Pass (w/SCS SBs 661 & 648) General Laws Committee (2594S.02C)",
+    "date": "2025-04-02T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 661"
+}

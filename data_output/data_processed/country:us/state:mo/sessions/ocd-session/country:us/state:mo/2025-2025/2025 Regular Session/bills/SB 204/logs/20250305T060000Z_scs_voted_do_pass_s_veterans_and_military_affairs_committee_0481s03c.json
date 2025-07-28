@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "SCS Voted Do Pass S Veterans and Military Affairs Committee (0481S.03C)",
+    "date": "2025-03-05T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 204"
+}

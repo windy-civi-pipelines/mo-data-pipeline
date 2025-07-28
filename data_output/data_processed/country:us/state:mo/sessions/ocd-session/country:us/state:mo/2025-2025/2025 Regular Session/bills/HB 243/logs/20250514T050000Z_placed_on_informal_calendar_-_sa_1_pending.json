@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Placed on Informal Calendar - SA 1 pending",
+    "date": "2025-05-14T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 243"
+}

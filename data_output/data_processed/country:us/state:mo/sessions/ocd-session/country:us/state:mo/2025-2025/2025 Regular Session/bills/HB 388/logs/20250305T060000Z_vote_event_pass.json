@@ -1,0 +1,24 @@
+{
+  "identifier": "",
+  "motion_text": "Reported Do Pass - Consent (H) - AYES: 8 NOES: 0 PRESENT: 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-05T06:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "a9bf1c38-6be4-11f0-b2b7-9a04959f051b",
+  "bill_action": null,
+  "bill_identifier": "HB 388",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB388&year=2025&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "a9bf5ee6-6be4-11f0-b2b7-9a04959f051b"
+}

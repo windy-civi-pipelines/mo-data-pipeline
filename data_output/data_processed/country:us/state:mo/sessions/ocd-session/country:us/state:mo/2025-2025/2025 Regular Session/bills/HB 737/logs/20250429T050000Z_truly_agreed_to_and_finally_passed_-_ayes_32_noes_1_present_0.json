@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Truly Agreed To and Finally Passed - AYES: 32 NOES: 1 PRESENT: 0",
+    "date": "2025-04-29T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 737"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "HA 1 to HCS H offered & adopted (Baker)--(0514H14.10H)",
+    "date": "2025-04-30T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 63"
+}

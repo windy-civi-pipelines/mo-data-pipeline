@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Third Read and Passed (S) - AYES: 31 NOES: 1 PRESENT: 0",
+    "date": "2025-05-07T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 121"
+}

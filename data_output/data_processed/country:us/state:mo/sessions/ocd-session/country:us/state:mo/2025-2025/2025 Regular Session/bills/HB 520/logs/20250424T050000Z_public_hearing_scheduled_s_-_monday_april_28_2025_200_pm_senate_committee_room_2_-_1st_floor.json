@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Public Hearing Scheduled (S) - Monday, April 28, 2025, 2:00 p.m., Senate Committee Room 2 - 1st Floor",
+    "date": "2025-04-24T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 520"
+}

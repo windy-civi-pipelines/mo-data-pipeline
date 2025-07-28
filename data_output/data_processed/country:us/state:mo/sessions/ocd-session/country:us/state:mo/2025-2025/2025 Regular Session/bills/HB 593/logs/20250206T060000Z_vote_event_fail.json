@@ -1,0 +1,24 @@
+{
+  "identifier": "",
+  "motion_text": "HCS Reported Do Pass (H) - AYES: 12 NOES: 5 PRESENT: 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-06T06:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "240e3762-6be5-11f0-b2b7-9a04959f051b",
+  "bill_action": null,
+  "bill_identifier": "HB 593",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB593&year=2025&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "240e6462-6be5-11f0-b2b7-9a04959f051b"
+}

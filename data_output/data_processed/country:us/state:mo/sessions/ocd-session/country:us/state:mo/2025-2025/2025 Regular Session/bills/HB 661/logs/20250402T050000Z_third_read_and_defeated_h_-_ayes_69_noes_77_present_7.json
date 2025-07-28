@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Third Read and Defeated (H) - AYES: 69 NOES: 77 PRESENT: 7",
+    "date": "2025-04-02T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 661"
+}

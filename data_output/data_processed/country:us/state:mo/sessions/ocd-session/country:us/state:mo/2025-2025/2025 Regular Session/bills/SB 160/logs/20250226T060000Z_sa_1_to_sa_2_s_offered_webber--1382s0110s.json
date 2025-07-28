@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "SA 1 to SA 2 S offered (Webber)--(1382S01.10S)",
+    "date": "2025-02-26T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 160"
+}

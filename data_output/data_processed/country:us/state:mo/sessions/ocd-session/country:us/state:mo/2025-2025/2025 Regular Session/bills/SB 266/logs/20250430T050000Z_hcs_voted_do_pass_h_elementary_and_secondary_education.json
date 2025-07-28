@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "HCS Voted Do Pass H Elementary and Secondary Education",
+    "date": "2025-04-30T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 266"
+}

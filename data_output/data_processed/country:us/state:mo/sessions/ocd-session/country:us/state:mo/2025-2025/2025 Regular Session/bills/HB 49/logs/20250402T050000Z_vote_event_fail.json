@@ -1,0 +1,24 @@
+{
+  "identifier": "",
+  "motion_text": "Third Read and Passed (H) - AYES: 132 NOES: 8 PRESENT: 10",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-02T05:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "df7c1732-6be3-11f0-b2b7-9a04959f051b",
+  "bill_action": null,
+  "bill_identifier": "HB 49",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB49&year=2025&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "df7c8258-6be3-11f0-b2b7-9a04959f051b"
+}

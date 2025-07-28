@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Bill Combined w/(SCS SJRs 31, 20, 24, 42, 32 & 48)",
+    "date": "2025-02-19T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SJR 20"
+}

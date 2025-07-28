@@ -1,0 +1,24 @@
+{
+  "identifier": "",
+  "motion_text": "Third Read and Passed (H) - AYES: 101 NOES: 54 PRESENT: 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-07T05:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "f0bf2768-6be4-11f0-b2b7-9a04959f051b",
+  "bill_action": null,
+  "bill_identifier": "HB 507",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB507&year=2025&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "f0bf8712-6be4-11f0-b2b7-9a04959f051b"
+}

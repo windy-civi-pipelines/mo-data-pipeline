@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "SS, as amended, S adopted",
+    "date": "2025-02-12T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 67"
+}

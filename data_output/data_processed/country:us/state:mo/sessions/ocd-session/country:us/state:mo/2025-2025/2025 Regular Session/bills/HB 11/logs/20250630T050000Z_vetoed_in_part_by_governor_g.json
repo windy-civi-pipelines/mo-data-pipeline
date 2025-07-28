@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Vetoed in Part by Governor (G)",
+    "date": "2025-06-30T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-veto-line-item"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 11"
+}

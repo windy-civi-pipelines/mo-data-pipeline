@@ -1,0 +1,24 @@
+{
+  "identifier": "",
+  "motion_text": "Reported Do Pass (H) - AYES: 7 NOES: 2 PRESENT: 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-13T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "7f4e2604-6be6-11f0-b2b7-9a04959f051b",
+  "bill_action": null,
+  "bill_identifier": "HB 1175",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB1175&year=2025&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "7f4e7d52-6be6-11f0-b2b7-9a04959f051b"
+}

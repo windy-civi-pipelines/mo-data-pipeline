@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "SCS Voted Do Pass S Education Committee (1178S.05C)",
+    "date": "2025-02-18T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 71"
+}

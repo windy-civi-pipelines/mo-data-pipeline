@@ -1,0 +1,24 @@
+{
+  "identifier": "",
+  "motion_text": "Third Read and Passed (S) - AYES: 29 NOES: 5 PRESENT: 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-29T05:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "ccfd522e-6be3-11f0-b2b7-9a04959f051b",
+  "bill_action": null,
+  "bill_identifier": "HB 6",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB6&year=2025&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "ccfdecc0-6be3-11f0-b2b7-9a04959f051b"
+}

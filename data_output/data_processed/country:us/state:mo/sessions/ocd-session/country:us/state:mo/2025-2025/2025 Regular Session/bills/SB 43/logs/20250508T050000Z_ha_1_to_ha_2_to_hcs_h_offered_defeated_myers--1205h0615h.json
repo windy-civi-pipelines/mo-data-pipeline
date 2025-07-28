@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "HA 1 to HA 2 to HCS H offered & defeated (Myers)--(1205H06.15H)",
+    "date": "2025-05-08T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 43"
+}

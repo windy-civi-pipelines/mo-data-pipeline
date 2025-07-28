@@ -1,0 +1,24 @@
+{
+  "identifier": "",
+  "motion_text": "Third Read and Passed (S) - AYES: 25 NOES: 8 PRESENT: 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-29T05:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "cff8d278-6be3-11f0-b2b7-9a04959f051b",
+  "bill_action": null,
+  "bill_identifier": "HB 11",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB11&year=2025&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "cff9a70c-6be3-11f0-b2b7-9a04959f051b"
+}

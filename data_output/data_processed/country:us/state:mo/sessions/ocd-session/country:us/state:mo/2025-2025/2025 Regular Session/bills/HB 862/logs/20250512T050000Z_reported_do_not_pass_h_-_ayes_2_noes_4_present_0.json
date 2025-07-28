@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Reported Do Not Pass (H) - AYES: 2 NOES: 4 PRESENT: 0",
+    "date": "2025-05-12T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 862"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Motion to vote bill do pass failed S Transportation, Infrastructure and Public Safety Committee",
+    "date": "2025-03-24T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 254"
+}

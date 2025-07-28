@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House Adopts Conference Committee Report (H) - AYES: 137 NOES: 8 PRESENT: 1",
+    "date": "2025-05-09T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 2"
+}

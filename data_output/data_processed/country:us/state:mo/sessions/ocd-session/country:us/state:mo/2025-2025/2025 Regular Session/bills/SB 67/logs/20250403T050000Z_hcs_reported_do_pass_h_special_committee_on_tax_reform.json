@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "HCS Reported Do Pass H Special Committee on Tax Reform",
+    "date": "2025-04-03T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 67"
+}

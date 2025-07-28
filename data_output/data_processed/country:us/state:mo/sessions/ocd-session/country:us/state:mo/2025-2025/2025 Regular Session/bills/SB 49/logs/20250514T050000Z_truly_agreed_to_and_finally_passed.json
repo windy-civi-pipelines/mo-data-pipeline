@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Truly Agreed To and Finally Passed",
+    "date": "2025-05-14T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 49"
+}

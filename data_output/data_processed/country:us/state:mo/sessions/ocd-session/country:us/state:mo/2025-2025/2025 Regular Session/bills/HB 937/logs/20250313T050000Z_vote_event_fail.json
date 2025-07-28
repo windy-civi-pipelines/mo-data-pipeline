@@ -1,0 +1,24 @@
+{
+  "identifier": "",
+  "motion_text": "HCS Reported Do Pass (H) - AYES: 10 NOES: 2 PRESENT: 1",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-13T05:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "f14db108-6be5-11f0-b2b7-9a04959f051b",
+  "bill_action": null,
+  "bill_identifier": "HB 937",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB937&year=2025&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "f14de4b6-6be5-11f0-b2b7-9a04959f051b"
+}

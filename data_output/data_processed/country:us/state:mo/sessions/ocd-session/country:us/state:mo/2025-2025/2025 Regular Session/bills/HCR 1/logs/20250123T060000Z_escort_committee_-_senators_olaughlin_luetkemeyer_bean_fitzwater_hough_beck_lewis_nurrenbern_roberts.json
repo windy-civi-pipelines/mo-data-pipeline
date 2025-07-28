@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Escort Committee - Senators:  O'Laughlin, Luetkemeyer, Bean, Fitzwater, Hough, Beck, Lewis, Nurrenbern, Roberts, and Washington.",
+    "date": "2025-01-23T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HCR 1"
+}

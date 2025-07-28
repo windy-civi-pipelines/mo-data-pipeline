@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Voted Do Pass S Transportation, Infrastructure and Public Safety Committee",
+    "date": "2025-02-24T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 165"
+}

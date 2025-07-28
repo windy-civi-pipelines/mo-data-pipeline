@@ -1,0 +1,24 @@
+{
+  "identifier": "",
+  "motion_text": "Reported Do Pass (H) - AYES: 10 NOES: 0 PRESENT: 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-02T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "e7ae4610-6be7-11f0-b2b7-9a04959f051b",
+  "bill_action": null,
+  "bill_identifier": "HR 1289",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HR1289&year=2025&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "e7ae67da-6be7-11f0-b2b7-9a04959f051b"
+}

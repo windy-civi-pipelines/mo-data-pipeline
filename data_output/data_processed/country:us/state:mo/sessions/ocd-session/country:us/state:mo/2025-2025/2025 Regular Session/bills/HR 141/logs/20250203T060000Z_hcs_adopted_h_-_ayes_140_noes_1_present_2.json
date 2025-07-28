@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "HCS Adopted (H) - AYES: 140 NOES: 1 PRESENT: 2",
+    "date": "2025-02-03T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HR 141"
+}

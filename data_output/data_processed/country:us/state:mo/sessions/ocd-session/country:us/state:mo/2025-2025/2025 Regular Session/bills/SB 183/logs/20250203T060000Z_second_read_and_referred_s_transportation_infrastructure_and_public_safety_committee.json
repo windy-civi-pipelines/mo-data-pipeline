@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+    "date": "2025-02-03T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-2",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 183"
+}

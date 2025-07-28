@@ -1,0 +1,24 @@
+{
+  "identifier": "",
+  "motion_text": "Reported Do Pass (H) - AYES: 17 NOES: 0 PRESENT: 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-27T06:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "9a3be2d2-6be4-11f0-b2b7-9a04959f051b",
+  "bill_action": null,
+  "bill_identifier": "HB 362",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB362&year=2025&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "9a3c1856-6be4-11f0-b2b7-9a04959f051b"
+}

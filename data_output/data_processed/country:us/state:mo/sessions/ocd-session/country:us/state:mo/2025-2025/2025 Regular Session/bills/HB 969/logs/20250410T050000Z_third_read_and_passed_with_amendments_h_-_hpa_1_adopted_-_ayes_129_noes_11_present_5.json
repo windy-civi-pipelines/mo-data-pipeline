@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Third Read and Passed with Amendments (H) - HPA 1 adopted - AYES: 129 NOES: 11 PRESENT: 5",
+    "date": "2025-04-10T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 969"
+}

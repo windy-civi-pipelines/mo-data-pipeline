@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "S refuses to concur in  HA 1, HA 2, HA 1 to HA 3, HA 3, as amended, & HA 4 and requests H recede or grant conference",
+    "date": "2025-04-23T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 28"
+}

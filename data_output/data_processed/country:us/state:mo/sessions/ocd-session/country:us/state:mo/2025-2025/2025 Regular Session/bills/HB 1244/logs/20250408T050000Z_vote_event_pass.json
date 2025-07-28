@@ -1,0 +1,24 @@
+{
+  "identifier": "",
+  "motion_text": "Reported Do Pass (H) - AYES: 15 NOES: 0 PRESENT: 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-08T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "a879270e-6be6-11f0-b2b7-9a04959f051b",
+  "bill_action": null,
+  "bill_identifier": "HB 1244",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB1244&year=2025&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "a8794de2-6be6-11f0-b2b7-9a04959f051b"
+}

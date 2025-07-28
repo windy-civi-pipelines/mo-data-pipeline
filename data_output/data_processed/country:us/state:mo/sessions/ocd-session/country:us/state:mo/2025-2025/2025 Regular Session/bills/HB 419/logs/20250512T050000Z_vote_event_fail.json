@@ -1,0 +1,24 @@
+{
+  "identifier": "",
+  "motion_text": "Truly Agreed To and Finally Passed - AYES: 149 NOES: 7 PRESENT: 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-12T05:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "bc3e4cda-6be4-11f0-b2b7-9a04959f051b",
+  "bill_action": null,
+  "bill_identifier": "HB 419",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB419&year=2025&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "bc3f2a88-6be4-11f0-b2b7-9a04959f051b"
+}

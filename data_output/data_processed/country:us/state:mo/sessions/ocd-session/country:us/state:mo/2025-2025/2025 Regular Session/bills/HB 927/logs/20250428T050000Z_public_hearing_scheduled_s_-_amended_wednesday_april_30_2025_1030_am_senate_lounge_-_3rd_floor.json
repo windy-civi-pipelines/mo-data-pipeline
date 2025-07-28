@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Public Hearing Scheduled (S) - AMENDED:  Wednesday, April 30, 2025, 10:30 AM, Senate Lounge - 3rd floor",
+    "date": "2025-04-28T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 927"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Second read and referred: Families, Seniors and Health(S)",
+    "date": "2025-03-13T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 339"
+}

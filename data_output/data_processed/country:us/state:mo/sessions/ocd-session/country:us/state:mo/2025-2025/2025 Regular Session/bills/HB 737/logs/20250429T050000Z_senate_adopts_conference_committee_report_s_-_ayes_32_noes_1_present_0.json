@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate Adopts Conference Committee Report (S) - AYES: 32 NOES: 1 PRESENT: 0",
+    "date": "2025-04-29T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 737"
+}

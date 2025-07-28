@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "HA 1 to HCS H offered & adopted (Taylor-48)--(0805H06.01H)",
+    "date": "2025-04-23T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 81"
+}

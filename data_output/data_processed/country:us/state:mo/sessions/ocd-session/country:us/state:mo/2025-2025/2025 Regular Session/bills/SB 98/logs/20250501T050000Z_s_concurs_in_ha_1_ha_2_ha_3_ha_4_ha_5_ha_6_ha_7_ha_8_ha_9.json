@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "S concurs in HA 1, HA 2, HA 3, HA 4, HA 5, HA 6, HA 7, HA 8 & HA 9",
+    "date": "2025-05-01T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 98"
+}

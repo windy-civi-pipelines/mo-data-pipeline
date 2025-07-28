@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Placed on Informal Calendar - SA 3 and SS SCS pending",
+    "date": "2025-05-05T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 75"
+}

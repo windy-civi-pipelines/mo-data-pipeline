@@ -1,0 +1,24 @@
+{
+  "identifier": "",
+  "motion_text": "HCS Reported Do Pass (H) - AYES: 17 NOES: 6 PRESENT: 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-05T06:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "033dcc50-6be5-11f0-b2b7-9a04959f051b",
+  "bill_action": null,
+  "bill_identifier": "HB 538",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB538&year=2025&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "033dfb4e-6be5-11f0-b2b7-9a04959f051b"
+}

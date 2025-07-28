@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "S Third Read and Passed",
+    "date": "2025-02-12T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SCR 3"
+}

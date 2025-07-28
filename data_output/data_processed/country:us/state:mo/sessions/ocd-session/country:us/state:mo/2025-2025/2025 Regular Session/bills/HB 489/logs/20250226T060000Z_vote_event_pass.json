@@ -1,0 +1,24 @@
+{
+  "identifier": "",
+  "motion_text": "HCS Reported Do Pass (H) - AYES: 15 NOES: 1 PRESENT: 6",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-26T06:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "e6019f90-6be4-11f0-b2b7-9a04959f051b",
+  "bill_action": null,
+  "bill_identifier": "HB 489",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB489&year=2025&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "e601c984-6be4-11f0-b2b7-9a04959f051b"
+}

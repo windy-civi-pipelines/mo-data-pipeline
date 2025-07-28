@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "SCS Voted Do Pass Consent (S)",
+    "date": "2025-03-31T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 810"
+}

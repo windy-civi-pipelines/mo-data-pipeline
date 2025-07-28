@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Public Hearing Scheduled (S) - Tuesday, April 29, 2025, 9:00 a.m., Senate Lounge - 3rd Floor",
+    "date": "2025-04-24T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 331"
+}

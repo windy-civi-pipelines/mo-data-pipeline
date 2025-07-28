@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Laid Over (H) - HA 1 adopted HA 2 pending",
+    "date": "2025-04-08T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HJR 67"
+}

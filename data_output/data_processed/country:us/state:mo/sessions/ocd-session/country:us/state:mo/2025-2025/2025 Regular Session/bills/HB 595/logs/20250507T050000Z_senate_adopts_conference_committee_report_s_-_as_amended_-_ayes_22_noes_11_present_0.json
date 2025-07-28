@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate Adopts Conference Committee Report (S) - as amended - AYES: 22 NOES: 11 PRESENT: 0",
+    "date": "2025-05-07T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 595"
+}

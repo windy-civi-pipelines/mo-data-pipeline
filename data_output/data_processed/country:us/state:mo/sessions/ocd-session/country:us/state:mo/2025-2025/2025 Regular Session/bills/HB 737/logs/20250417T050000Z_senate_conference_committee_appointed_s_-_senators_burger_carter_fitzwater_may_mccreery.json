@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate Conference Committee Appointed (S) - SENATORS BURGER, CARTER, FITZWATER, MAY, MCCREERY",
+    "date": "2025-04-17T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 737"
+}

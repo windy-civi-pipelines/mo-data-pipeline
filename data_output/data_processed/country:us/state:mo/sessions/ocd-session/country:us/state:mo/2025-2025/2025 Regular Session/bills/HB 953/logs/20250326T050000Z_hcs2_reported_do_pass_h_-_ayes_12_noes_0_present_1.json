@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "HCS#2 Reported Do Pass (H) - AYES: 12 NOES: 0 PRESENT: 1",
+    "date": "2025-03-26T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 953"
+}

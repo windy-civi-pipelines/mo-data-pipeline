@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Public Hearing Scheduled (S) - Wednesday, April 9, 2025, 8:00 a.m., SCR 1 - 1st Floor",
+    "date": "2025-04-04T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 943"
+}
