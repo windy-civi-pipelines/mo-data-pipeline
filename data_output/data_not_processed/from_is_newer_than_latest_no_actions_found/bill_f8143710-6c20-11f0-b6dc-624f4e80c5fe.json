@@ -1,0 +1,64 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB 765",
+  "title": "Prohibits obscene or harmful materials from being accessible to minors in public schools and charter schools",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "Prohibits obscene or harmful materials from being accessible to minors in public schools and charter schools"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Nicola",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicola\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/25info/pdf-bill/intro/SB765.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://www.senate.mo.gov/25info/BTS_Web/Bill.aspx?SessionType=R&BillID=6348298",
+      "note": ""
+    },
+    {
+      "url": "https://www.senate.mo.gov/25info/BTS_Web/BillText.aspx?SessionType=R&BillID=6348298",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "scraped_at": "2025-07-29T02:08:50+00:00",
+  "_id": "f8143710-6c20-11f0-b6dc-624f4e80c5fe"
+}
