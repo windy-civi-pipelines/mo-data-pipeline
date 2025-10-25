@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Reported Do Pass (H) - AYES: 10 NOES: 4 PRESENT: 0",
+    "date": "2025-09-04T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1"
+}

@@ -1,0 +1,23 @@
+{
+  "identifier": "",
+  "motion_text": "HCS Reported Do Pass (H) - AYES: 10 NOES: 5 PRESENT: 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-09-04T05:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025S2",
+  "bill": "fb7e8abc-b14f-11f0-876a-0aa07c58af48",
+  "bill_action": null,
+  "bill_identifier": "HJR 3",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HJR3&year=2025&code=S2",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

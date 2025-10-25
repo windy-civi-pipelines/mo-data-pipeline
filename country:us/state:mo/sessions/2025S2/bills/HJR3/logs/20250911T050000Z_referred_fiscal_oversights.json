@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Referred: Fiscal Oversight(S)",
+    "date": "2025-09-11T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HJR 3"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "SS S offered (Beck)--(3465S.01I)",
+    "date": "2025-09-10T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SR 2"
+}

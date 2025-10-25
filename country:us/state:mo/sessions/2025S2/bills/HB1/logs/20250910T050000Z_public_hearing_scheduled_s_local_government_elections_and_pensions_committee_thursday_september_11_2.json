@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Public Hearing Scheduled (S) - Local Government, Elections and Pensions Committee, Thursday, September 11, 2025, 10:00 a.m., Senate Committee Room 2, pending referral of HB 1 and HCS  HJR 3.",
+    "date": "2025-09-10T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Second read and referred: Local Government, Elections and Pensions(S)",
+    "date": "2025-09-11T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1"
+}
